@@ -40,7 +40,7 @@ To the best of our knowledge, this is the **first study** to explore multidirect
 
 ## 📰 Publication
 
-This work has been **submitted to the Journal of Visual Communication and Image Representation**.  
+This work has been **submitted to the Journal of Signal Processing: Image Communication**.  
 Updates regarding the publication status will be provided here.
 
 ---
